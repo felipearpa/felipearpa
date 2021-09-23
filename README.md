@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on some open source project about machine learning
 
 **📫 How to reach me ...**
-Email -> felipearcila@gmail.com
-Facebook -> https://www.facebook.com/felipearpa
-Linkedin -> https://www.linkedin.com/in/felipearpa
+1. Email -> felipearcila@gmail.com
+2. Linkedin -> https://www.linkedin.com/in/felipearpa
+3. Facebook -> https://www.facebook.com/felipearpa
